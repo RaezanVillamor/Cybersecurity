@@ -18,6 +18,6 @@ def processPacket(packet):
             return message
         else:
             IP_MAC_Map[src_MAC] = src_IP
-
+print("hello world")
 sniff(count=0, filter='arp', store = 0, prn = processPacket)
     
