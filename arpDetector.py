@@ -1,4 +1,4 @@
-from scapy.all import sniff
+from scapy.all import sniff #scapy, allows to read and send packages
 IP_MAC_Map = {}
 
 def processPacket(packet):
