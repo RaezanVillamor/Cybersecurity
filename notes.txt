@@ -1,0 +1,6 @@
+In this virtual lab environment, the machines are
+virtually connected by Ethernet, so you’ll use eth0 for your interface. In the
+coffee shop environment, the interface would be set to wlan.
+
+
+
