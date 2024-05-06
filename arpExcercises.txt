@@ -1,0 +1,6 @@
+This excercise lets me see what happens to the ARP tables when I use the command
+sudo arp -a 
+on the metasploitable machine here are the results
+
+1) ARP tables (non spoofed)
+pfSense.home.arpa (192.168.1.1) at .... [ether] on eth0 ? (192.168.1.100) at .... [ether on eth0]
