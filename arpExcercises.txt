@@ -3,4 +3,12 @@ sudo arp -a
 on the metasploitable machine here are the results
 
 1) ARP tables (non spoofed)
-pfSense.home.arpa (192.168.1.1) at .... [ether] on eth0 ? (192.168.1.100) at .... [ether on eth0]
+pfSense.home.arpa (192.168.1.1) at .... [ether] on eth0 
+
+
+
+2) ARP tables (spoofed)
+pfSense.home.arpa (192.168.1.1) at .... [ether] on eth0 
+
+
+In both (....) the mac addresses are different. If it's spoofed then it'll show the attackers mac address

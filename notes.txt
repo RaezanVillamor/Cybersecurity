@@ -3,4 +3,5 @@ virtually connected by Ethernet, so you’ll use eth0 for your interface. In the
 coffee shop environment, the interface would be set to wlan.
 
 
-
+The
+machine with the lowest IP address is normally the router on the LAN.
