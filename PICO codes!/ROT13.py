@@ -18,7 +18,7 @@ def ROT13(ciphertext):
         if ciphertext[i].isupper():
             upperLetter = ciphertext[i]
             upperLetter =upperLetter.lower()
-            print(upperLetter)
+            # print(upperLetter)
             getLetter = dictionary[upperLetter]
             deciphered += getLetter.upper()
         elif ciphertext[i].islower():
