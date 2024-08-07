@@ -1,0 +1,18 @@
+Part 1: Numbers
+
+Binary numbers
+--------------
+
+What are numbers?
+--> Numbers represent Quantities
+--> WE write numbers using digits
+--> The digits of a number can mean different things depending on what base they're written in
+
+Quantities
+-----------
+(Picture of a vast quantity of 10 pencils)
+
+
+Digits
+----------
+---> X (roman numeral)
