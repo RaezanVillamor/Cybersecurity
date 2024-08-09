@@ -13,3 +13,6 @@
 # get it using wget https://mercury.picoctf.net/static/f95b1ee9f29d631d99073e34703a2826/warm
 # then you should run ./warm in the terminal but however it may not be executable right away
 # so then use chmod +x warm to make it executable then run the thing above
+
+# 3) in convertme.py
+# Run the Python script and convert the given number from decimal to binary to get the flag.
