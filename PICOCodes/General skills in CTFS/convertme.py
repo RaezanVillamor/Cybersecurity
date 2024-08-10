@@ -33,3 +33,7 @@ try:
   
 except ValueError:
   print('That isn\'t a binary number. Binary numbers contain only 1\'s and 0\'s')
+
+
+def answer(ans):
+  pass
