@@ -58,3 +58,7 @@ print(ans)
 
 # 2) tab tab attack
 # chmod +x and use of unzip
+
+# 3) ran python code already there
+
+#4) magikarp ground mission just using ssh and moving through files
