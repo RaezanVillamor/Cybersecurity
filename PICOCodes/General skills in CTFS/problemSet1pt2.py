@@ -51,6 +51,10 @@ numList = [
 ]
 ans = ''
 for i in numList:
-    ans += i
+    ans += chr(i)
     
-print(i)
+print(ans)
+
+
+# 2) tab tab attack
+# chmod +x and use of unzip
