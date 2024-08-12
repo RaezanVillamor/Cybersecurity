@@ -49,5 +49,6 @@ numList = [
 125 ,
 10 ,
 ]
+ans = ''
 for i in numList:
-    pass
+    print(chr(i))
