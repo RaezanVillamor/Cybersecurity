@@ -51,4 +51,6 @@ numList = [
 ]
 ans = ''
 for i in numList:
-    print(chr(i))
+    ans += i
+    
+print(i)
