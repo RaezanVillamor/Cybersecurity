@@ -15,3 +15,5 @@
 # Download zip file
 
 # next run find -name 'uber-secret.txt' then copy path and nano the text file which will get you your code
+
+3) biz zip
