@@ -16,4 +16,8 @@
 
 # next run find -name 'uber-secret.txt' then copy path and nano the text file which will get you your code
 
-3) biz zip
+# 3) big zip
+
+# used grep to look at all files in the directory and subdirectories. You have to use a period at the end of grep
+
+# grep -i -r "pico" * .
