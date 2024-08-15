@@ -91,3 +91,8 @@
 # rae@rae-Swift-SF314-511:~/Documents/ETH/Codes!/Cybersecurity/PICOCodes/problem set downloads$ grep -i "pico" static.ltdis.strings.txt 
 #    1020 picoCTF{d15a5m_t34s3r_6f8c8200}
 # rae@rae-Swift-SF314-511:~/Documents/ETH/Codes!/Cybersecurity/PICOCodes/problem set downloads$ 
+
+
+
+2) strings it
+Can you find the flag in file without running it?
