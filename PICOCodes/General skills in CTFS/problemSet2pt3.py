@@ -94,5 +94,9 @@
 
 
 
-2) strings it
-Can you find the flag in file without running it?
+
+# 2) strings it
+# Can you find the flag in file without running it?
+
+# rae@rae-Swift-SF314-511:~/Documents/ETH/Codes!/Cybersecurity/PICOCodes/problem set downloads$ strings strings | grep "pico"
+# picoCTF{5tRIng5_1T_7f766a23}
