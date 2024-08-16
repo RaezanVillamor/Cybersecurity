@@ -101,4 +101,4 @@
 # rae@rae-Swift-SF314-511:~/Documents/ETH/Codes!/Cybersecurity/PICOCodes/problem set downloads$ strings strings | grep "pico"
 # picoCTF{5tRIng5_1T_7f766a23}
 
-3) plumbing
+# 3) plumbing
