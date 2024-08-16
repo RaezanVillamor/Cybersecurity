@@ -102,8 +102,8 @@
 # picoCTF{5tRIng5_1T_7f766a23}
 
 # 3) plumbing
-rae@rae-Swift-SF314-511:~$ nc jupiter.challenges.picoctf.org 4427 | grep "pico"
-picoCTF{digital_plumb3r_5ea1fbd7}
-^Z
-[2]+  Stopped                 nc jupiter.challenges.picoctf.org 4427 | grep --color=auto "pico"
-rae@rae-Swift-SF314-511:~$ 
+# rae@rae-Swift-SF314-511:~$ nc jupiter.challenges.picoctf.org 4427 | grep "pico"
+# picoCTF{digital_plumb3r_5ea1fbd7}
+# ^Z
+# [2]+  Stopped                 nc jupiter.challenges.picoctf.org 4427 | grep --color=auto "pico"
+# rae@rae-Swift-SF314-511:~$ 
