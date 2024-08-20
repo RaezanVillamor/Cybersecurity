@@ -11,6 +11,7 @@ August 20:
 -did pico "Super SSH"
 - did pico "Bases"
 -Did pico "Insp3ct0r"
+-did pico "where are the robots
 -----------
 Super SSH Description
 Using a Secure Shell (SSH) is going to be pretty important.
@@ -49,4 +50,7 @@ Description
 Kishor Balan tipped us off that the following code may need 
 inspection: https://jupiter.challenges.picoctf.org/problem/9670/ (link) or http://jupiter.challenges.picoctf.org:9670
 
-Solution: used inspect element to find pieces of the flag
+Solution: used inspect element to find pieces of the flag. 
+One was in html comments, one was in the css, one was in the js script
+
+---------------------
