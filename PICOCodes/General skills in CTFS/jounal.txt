@@ -9,6 +9,8 @@ August 19
 
 August 20:
 -did pico "Super SSH"
+- did pico "Bases"
+-Did pico "Insp3ct0r"
 -----------
 Super SSH Description
 Using a Secure Shell (SSH) is going to be pretty important.
@@ -37,3 +39,14 @@ What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with ba
 
 Solution: used cyberchef
 
+---------------------
+
+
+Insp3ct0r
+Author: zaratec/danny
+
+Description
+Kishor Balan tipped us off that the following code may need 
+inspection: https://jupiter.challenges.picoctf.org/problem/9670/ (link) or http://jupiter.challenges.picoctf.org:9670
+
+Solution: used inspect element to find pieces of the flag
