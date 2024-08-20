@@ -54,3 +54,9 @@ Solution: used inspect element to find pieces of the flag.
 One was in html comments, one was in the css, one was in the js script
 
 ---------------------
+
+where are the robots
+Author: zaratec/Danny
+
+Description
+Can you find the robots? https://jupiter.challenges.picoctf.org/problem/56830/ (link) or http://jupiter.challenges.picoctf.org:56830
