@@ -62,9 +62,13 @@ Description
 Can you find the robots? https://jupiter.challenges.picoctf.org/problem/56830/ (link) or http://jupiter.challenges.picoctf.org:56830
 
 Hint:
-
+What part of the website could tell you where the creator doesn't want you to look?
 
 Solution:
 A robots.txt file tells search engine crawlers which URLs the crawler can access on your site. 
 This is used mainly to avoid overloading your site with requests; it is not a mechanism for keeping a web page out of Google. 
 To keep a web page out of Google, block indexing with noindex or password-protect the page.
+
+-add "robots.txt" to the end of the html link which will take you to a page that has a different ending html link
+
+------------------------------
