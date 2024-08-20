@@ -12,6 +12,8 @@ August 20:
 - did pico "Bases"
 -Did pico "Insp3ct0r"
 -did pico "where are the robots
+
+did pw crack 1,2,3,4,5
 -----------
 Super SSH Description
 Using a Secure Shell (SSH) is going to be pretty important.
@@ -74,3 +76,12 @@ To keep a web page out of Google, block indexing with noindex or password-protec
 ------------------------------
 
 
+PW CRACK 1
+
+solution: if you look at the python files the password is in the if statement
+
+-----------------------------
+
+PW crack 2
+
+Solution: in the if statement the pw is in the if statement but in hexadecimals
