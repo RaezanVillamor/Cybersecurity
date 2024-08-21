@@ -97,3 +97,10 @@ solution: brute force
 PW crack 4
 
 solution: for loop brute force
+---------------------------
+
+PW crack 5
+
+brute force but in the library. also used grep for the output tho !
+
+python3 level5.py | grep 'pico'

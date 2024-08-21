@@ -18,13 +18,15 @@ correct_pw_hash = open('level5.hash.bin', 'rb').read()
 def hash_pw(pw_str):
     pw_bytes = bytearray()
     pw_bytes.extend(pw_str.encode())
+    
     m = hashlib.md5()
+    print(m)
     m.update(pw_bytes)
     return m.digest()
 
 
-def level_5_pw_check():
-    user_pw = input("Please enter correct password for flag: ")
+def level_5_pw_check(user_pw):
+    # user_pw = input("Please enter correct password for flag: ")
     user_pw_hash = hash_pw(user_pw)
     
     if( user_pw_hash == correct_pw_hash ):
@@ -36,5 +38,22 @@ def level_5_pw_check():
 
 
 
-level_5_pw_check()
+# level_5_pw_check()
 
+
+# Solve by brute forcing inside the dictionary
+
+
+def readDict(file_path):
+    dictionary = []
+    
+    with open(file_path, 'r') as file:
+        for line in file:
+            dictionary.append(line.strip())
+            
+    return dictionary
+
+possible_pass = readDict('dictionary.txt')
+
+for i in possible_pass:
+    level_5_pw_check(i)
