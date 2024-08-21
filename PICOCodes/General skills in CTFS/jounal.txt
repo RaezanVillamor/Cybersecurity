@@ -85,3 +85,9 @@ solution: if you look at the python files the password is in the if statement
 PW crack 2
 
 Solution: in the if statement the pw is in the if statement but in hexadecimals
+
+---------------------------------
+
+PW crack 3
+
+solution: brute force
