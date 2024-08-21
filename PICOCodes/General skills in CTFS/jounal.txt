@@ -91,3 +91,9 @@ Solution: in the if statement the pw is in the if statement but in hexadecimals
 PW crack 3
 
 solution: brute force
+
+--------------------------
+
+PW crack 4
+
+solution: for loop brute force
