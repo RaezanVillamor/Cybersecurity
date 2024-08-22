@@ -141,3 +141,5 @@ This service can provide you with a random number, but can it do anything else?
 Connect to the program with netcat:
 $ nc saturn.picoctf.net 61475
 The program's source code can be downloaded here.
+
+Solution: run the source code but run the "win()" function, itll give you a hex code which you can put into cyberchef
