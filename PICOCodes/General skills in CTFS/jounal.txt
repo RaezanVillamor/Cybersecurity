@@ -111,4 +111,11 @@ August 21:
 
 -Started section 5 of pico
 
+-----------------------------
+
+August 22:
+
+- worked on low level binary problems
+
+-Started on "mochis tale"
 
