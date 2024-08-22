@@ -133,3 +133,11 @@ Convert the following string of ASCII numbers into a readable string:
 solution: cyberchef
 
 
+--------------------------------
+
+Picker 1
+
+This service can provide you with a random number, but can it do anything else?
+Connect to the program with netcat:
+$ nc saturn.picoctf.net 61475
+The program's source code can be downloaded here.
