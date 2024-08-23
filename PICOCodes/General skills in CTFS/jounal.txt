@@ -188,7 +188,11 @@ Download the assembly dump here.
 Solution: the ptr is 0x9fe1a so deciphering that we get 654874
 
 --------------------------
+August 23: 
 
+****Notes: Focus on binary exploitation later Bit-O-ASM-3 be postponed until after cryptography
+
+---------------------------
 Bit-O-Asm-3
 Author: LT 'syreal' Jones
 
@@ -217,3 +221,7 @@ Arithmetic in assembly is a little different. Both operands are used in the oper
 wiping away its original contents.
 The next problem introduces the imul and add instructions. imul is multiplication, the operands are multiplied together and the 
 result is stored in the first operand. add is addition, the operands are added together and the result is stored in the first operand.
+
+****Unfinished
+-----------------------------------------
+Caesar
