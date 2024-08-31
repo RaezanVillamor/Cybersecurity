@@ -243,3 +243,4 @@ August 28:
 -Vacation 28
 --------------
 August 29:
+- vacation
