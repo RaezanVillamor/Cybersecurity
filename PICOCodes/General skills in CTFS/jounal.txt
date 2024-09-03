@@ -255,3 +255,10 @@ While manually applying each possible shift to a message (brute-forcing) would t
 For more information and code examples, you can explore our CTF Primer, Substitution Ciphers chapter.
 
 --------------------------------
+Base64 Explanation
+Base64 encoding allows raw binary data to be represented as printable ASCII characters. It’s not an encryption method, it can always be easily decoded. 
+It can serve as a mild form of obfuscation. CTF (Capture-the-flag) problem writers often use this feature of Base64 to hide otherwise trivially discoverable 
+flags, such as when using grep to search for the “picoCTF” flag prefix. Base64 encoded information can be given away by trailing equal signs (“=”), but Base64 
+encoded strings don’t always have this feature. A good tool for encoding and decoding Base64 (and many other things) is CyberChef.
+
+
