@@ -262,3 +262,23 @@ flags, such as when using grep to search for the “picoCTF” flag prefix. Base
 encoded strings don’t always have this feature. A good tool for encoding and decoding Base64 (and many other things) is CyberChef.
 
 
+interencdec
+Author: NGIRIMANA Schadrack
+
+Description
+Can you get the real meaning from this file.
+Download the file here.
+
+
+the file reads:
+YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclgyeG9OakJzTURCcGZRPT0nCg==
+
+decoding from base64 leads to:
+b'd3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrX20wMjEyNzU4fQ=='
+
+getting rid of the b since it looks like its not needed which gives:
+wpjvJAM{jhlzhy_k3jy9wa3k_m0212758}
+
+using a caesar cipher gives:
+picoCTF{caesar_d3cr9pt3d_ea60e00b}
+
